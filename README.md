@@ -85,14 +85,3 @@ Asignando repartidor...
 ```
 
 (El primer bloque de cada pedido corresponde a la llamada sin argumentos —versión sobrescrita—; el segundo, a la llamada con el nombre del repartidor —versión sobrecargada—.)
-
-## Checklist de entrega (pauta)
-
-- [x] Clase base con atributos encapsulados y constructor completo.
-- [x] Método base con lógica genérica clara para herencia.
-- [x] Subclases que sobrescriben el método con lógica diferenciada.
-- [x] Sobrecarga del método con parámetros adecuados y lógica coherente.
-- [x] Clase `Main` que instancia y demuestra el polimorfismo.
-- [x] Salida por consola clara y diferenciada por tipo.
-- [ ] Subir el proyecto a un repositorio de GitHub público y entregar el enlace en el AVA.
-- [ ] Entregar también el proyecto en `.zip`/`.rar`.
